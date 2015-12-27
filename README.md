@@ -7,7 +7,7 @@ Udacity Full Stack Web Developer Nanodegree Project 2 - Tournament Results
  - tournament.sql - Table definition for the tournament project in postgresql database
  - tournament_test.py - Test cases for tournament.py
 
-<h2>Used Programs</h2>
+<h2>Prerequisites</h2>
  - Virtualbox - https://www.virtualbox.org/wiki/Downloads
  - Vagrant - https://www.vagrantup.com/downloads
 
