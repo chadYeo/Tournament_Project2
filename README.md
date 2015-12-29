@@ -1,6 +1,6 @@
 # Udacity_Tournament_Project2
 Udacity Full Stack Web Developer Nanodegree Project 2 - Tournament Results
-<p>This program will simulate the first two rounds of a Siwss Tournament. In the first round, each player will be randomly assigned to another and a win or loss will be recorded. In the second round, those players who have one win will play one another and those with one loss will play one another.</p>
+<p>This program will simulate the first two rounds of a Swiss Tournament. In the first round, each player will be randomly assigned to another and a win or loss will be recorded. In the second round, those players who have one win will play one another and those with one loss will play one another.</p>
 
 <h2>Files</h2>
  - tournament.py - Implementation of a Swiss-system tournament in python functions
